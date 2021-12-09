@@ -1,4 +1,3 @@
-D:\RentACarApp\RentACar\bin\Debug\net5.0\appsettings.Development.json
 D:\RentACarApp\RentACar\bin\Debug\net5.0\appsettings.json
 D:\RentACarApp\RentACar\bin\Debug\net5.0\RentACar.exe
 D:\RentACarApp\RentACar\bin\Debug\net5.0\RentACar.deps.json
@@ -129,7 +128,6 @@ D:\RentACarApp\RentACar\obj\Debug\net5.0\RentACar.TagHelpers.input.cache
 D:\RentACarApp\RentACar\obj\Debug\net5.0\RentACar.TagHelpers.output.cache
 D:\RentACarApp\RentACar\obj\Debug\net5.0\RentACar.RazorCoreGenerate.cache
 D:\RentACarApp\RentACar\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\RentACarApp\RentACar\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\RentACarApp\RentACar\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\RentACarApp\RentACar\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\RentACarApp\RentACar\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
