@@ -20,6 +20,7 @@ namespace RentACarApplication.Entities
         public string Description { get; set; }
 
         [Required]
+        [DisplayFormat(DataFormatString ="{0:dd-MM-yyyy}")]
         public DateTime CreatedDate { get; set; }
 
         [Required]
