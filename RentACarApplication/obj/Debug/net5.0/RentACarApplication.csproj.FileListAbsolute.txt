@@ -166,3 +166,8 @@ D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Car\
 D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Car\Details.cshtml.g.cs
 D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Car\Edit.cshtml.g.cs
 D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Car\Index.cshtml.g.cs
+D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserLoginPartial.cshtml.g.cs
