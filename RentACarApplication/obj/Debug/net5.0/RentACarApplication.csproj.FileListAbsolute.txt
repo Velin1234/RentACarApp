@@ -171,3 +171,4 @@ D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\A
 D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserLoginPartial.cshtml.g.cs
+D:\RentACarApp\RentACarApplication\obj\Debug\net5.0\Razor\Views\Shared\_UserRegistrationPartial.cshtml.g.cs
