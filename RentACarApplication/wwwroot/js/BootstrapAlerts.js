@@ -16,3 +16,4 @@
 
 function CloseAlert(placeHolderElemId) {
     $(placeHolderElemId).html("");
+}
