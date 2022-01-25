@@ -1,0 +1,35 @@
+﻿@using System.Numerics
+@model IEnumerable<RentACarApp.Models.Car>
+
+@{
+    ViewData["Title"] = "Обяви";
+    BigInteger index = 0;
+}
+
+<h1 class="header">Обяви</h1>
+
+<p class="create-new">
+    <a asp-action="Create" class="create-new-button">Създай нова обява</a>
+</p>
+<table class="table" style="overflow: auto">
+    <thead>
+        
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <td>
+                <div class="car-item">
+                    <h1 class="car-item-header">@item.Make</h1>
+                    <h4 class="car-item-model">@item.Model</h4>
+                    <a asp-action="Details" asp-route-id="@item.Id"><img src="/Images/@item.Image" height="250" width="350" class="car-item-picture" /></a>
+                </div>
+            </td>
+            index++;
+            if (index % 3 == 0)
+            {
+                <tr></tr>
+            }
+        }
+    </tbody>
+</table>
