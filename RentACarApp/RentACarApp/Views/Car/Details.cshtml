@@ -1,13 +1,12 @@
 ﻿@model RentACarApp.Models.Car
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Детайли отностно обявата";
 }
 
-<h1>Details</h1>
+<h1 class="header">Детайли отностно обявата</h1>
 
 <div>
-    <h4>Car</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -41,12 +40,6 @@
             @Html.DisplayFor(model => model.Price)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Image)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Image)
-        </dd>
-        <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.PhoneNumber)
         </dt>
         <dd class = "col-sm-10">
@@ -55,6 +48,7 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index" class="back-button">Обратно</a> |
+    <a asp-action="Edit" class="back-button" asp-route-id="@Model.Id">Редактирай</a> |
+    <a asp-action="Delete" class="back-button" asp-route-id="@Model.Id">Изтрий тази обява</a> 
 </div>

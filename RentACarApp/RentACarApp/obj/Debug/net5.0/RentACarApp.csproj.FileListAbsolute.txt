@@ -376,7 +376,6 @@ D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\RentACarApp.TagHelpers.i
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\RentACarApp.TagHelpers.output.cache
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\RentACarApp.RazorCoreGenerate.cache
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -439,5 +438,6 @@ D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Car\Create.c
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Car\Delete.cshtml.g.cs
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Car\Details.cshtml.g.cs
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
-D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
 D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Shared\_DateScriptsPartial.cshtml.g.cs
+D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\RentACarApp\RentACarApp\RentACarApp\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
